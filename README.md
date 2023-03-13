@@ -13,5 +13,16 @@ The code was written in google collab as a notebook and then saved as a .py file
 cv2:- writing and saving the video
 numpy
 timit:- to show the time taken to perform the search
-Priorityqueue :- to access the required nodes 
+Priorityqueue :- to access the specifically  required nodes 
 matplotlip to show the plot of the map
+
+
+the video file that has been uploaded has the following start and goal coordinates
+Enter the X coordinate of the start node: 
+10
+Enter the Y coordinate of the start node: 
+10
+Enter the X coordinate of the Goal node: 
+200
+Enter the Y coordinate of the Goal node: 
+175
