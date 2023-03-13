@@ -1,4 +1,5 @@
 # ENPM-661-PROJECT-2
+Readme File
 The code was written in google collab as a notebook and then saved as a .py file
 
 1)The code will ask for x and y coordinates of start and goal node individually.
@@ -12,5 +13,5 @@ The code was written in google collab as a notebook and then saved as a .py file
 cv2:- writing and saving the video
 numpy
 timit:- to show the time taken to perform the search
-Priorityqueue
+Priorityqueue :- to access the required nodes 
 matplotlip to show the plot of the map
